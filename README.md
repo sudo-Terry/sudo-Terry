@@ -5,7 +5,8 @@
 📖[Baekjoon](https://www.acmicpc.net/user/rlgnsdl0510) <br/>
 📖[Codeforces](https://codeforces.com/profile/Terry55)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsudo-Terry&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kihoon-kim-a40902251/)
+
 
 </div>
   
