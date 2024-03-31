@@ -2,7 +2,8 @@
 
 ![sudo-Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-Terry&show=reviews&theme=radical)
  
-📖[Baekjoon](https://www.acmicpc.net/user/rlgnsdl0510) <br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgnsdl0510)](https://solved.ac/rlgnsdl0510/)
+
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kihoon-kim-a40902251/)
 
