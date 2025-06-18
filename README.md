@@ -10,7 +10,7 @@
 <div>
   <!--Body-->
 
-  ## Career
+  ## Background
   - 🎓 Student [@Konkuk Univ. CSE](https://www.konkuk.ac.kr/konkuk/index.do) (2018.03 ~ 2026.02)
   - 💼 Software Engineer [@CREMA](https://www.cre.ma) (2021.07 ~ 2023.09)
 
