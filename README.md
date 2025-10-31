@@ -14,17 +14,6 @@
   - 🎓 Student [@Konkuk Univ. CSE](https://www.konkuk.ac.kr/konkuk/index.do) (2018.03 ~ 2026.02)
   - 💼 Software Engineer [@CREMA](https://www.cre.ma) (2021.07 ~ 2023.09)
 
-  ## Awards
-  - 🏆 2025 GDGoC New Year Hackathon: 백야 (대상)
-
-  ## Tech Stack
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white">
-  <img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=RubyonRails&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  
-
   ## My Activities
  
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-Terry&layout=pie)](https://github.com/sudo-Terry/github-readme-stats)-->
